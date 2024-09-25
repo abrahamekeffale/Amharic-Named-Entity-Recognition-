@@ -1,3 +1,4 @@
 telethon
 pandas
-amharic-text
+nest_asyncio
+asyncio
