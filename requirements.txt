@@ -2,4 +2,5 @@ telethon
 pandas
 nest_asyncio
 asyncio
-nltk
+transformers
+torch
