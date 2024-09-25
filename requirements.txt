@@ -2,3 +2,4 @@ telethon
 pandas
 nest_asyncio
 asyncio
+nltk
